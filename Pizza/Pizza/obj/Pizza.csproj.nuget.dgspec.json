@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edvin.hasic\\source\\repos\\Pizza\\Pizza\\Pizza.csproj": {}
+    "C:\\Users\\edvin.hasic\\Documents\\GitHub\\PRRPRR02\\Pizza\\Pizza\\Pizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edvin.hasic\\source\\repos\\Pizza\\Pizza\\Pizza.csproj": {
+    "C:\\Users\\edvin.hasic\\Documents\\GitHub\\PRRPRR02\\Pizza\\Pizza\\Pizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edvin.hasic\\source\\repos\\Pizza\\Pizza\\Pizza.csproj",
+        "projectUniqueName": "C:\\Users\\edvin.hasic\\Documents\\GitHub\\PRRPRR02\\Pizza\\Pizza\\Pizza.csproj",
         "projectName": "Pizza",
-        "projectPath": "C:\\Users\\edvin.hasic\\source\\repos\\Pizza\\Pizza\\Pizza.csproj",
+        "projectPath": "C:\\Users\\edvin.hasic\\Documents\\GitHub\\PRRPRR02\\Pizza\\Pizza\\Pizza.csproj",
         "packagesPath": "C:\\Users\\edvin.hasic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edvin.hasic\\source\\repos\\Pizza\\Pizza\\obj\\",
+        "outputPath": "C:\\Users\\edvin.hasic\\Documents\\GitHub\\PRRPRR02\\Pizza\\Pizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edvin.hasic\\AppData\\Roaming\\NuGet\\NuGet.Config",
