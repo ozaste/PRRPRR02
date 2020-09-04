@@ -20,9 +20,12 @@ namespace Pizza
 
             Console.WriteLine("Are you alive " + Name + "?");
 
-            string alive = Console.ReadLine();
+            var alive = Console.ReadLine();
+            bool yes = true;
+            bool no = false;
 
-            Console.WriteLine("Alive: " + alive);
+            Console.WriteLine();
+
 
         }
     }
